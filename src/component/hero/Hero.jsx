@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from '../navbar/Navbar';
-import Me from '../../assets/me.png'; 
+import Me from '../../assets/Me.png'; 
 
 function Hero() {
   return (
